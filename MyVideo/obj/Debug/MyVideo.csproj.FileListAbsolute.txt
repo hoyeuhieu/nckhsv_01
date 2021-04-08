@@ -42,3 +42,17 @@ E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCapt
 E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csproj.CopyComplete
 E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.exe
 E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.pdb
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\MyVideo.exe.config
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\MyVideo.exe
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\MyVideo.pdb
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\AForge.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\AForge.Video.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\bin\Debug\AForge.Video.DirectShow.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.csprojAssemblyReference.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.Form1.resources
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.Properties.Resources.resources
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.csproj.GenerateResource.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.csproj.CoreCompileInputs.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.csproj.CopyComplete
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.exe
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\nckhsv_01\MyVideo\obj\Debug\MyVideo.pdb

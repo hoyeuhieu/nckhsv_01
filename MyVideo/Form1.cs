@@ -119,12 +119,13 @@ namespace MyVideo
             }
             pictureBox1.Image = video;
 
-            //  pictureBox2.Image = video;
-            string plateNumber = PlateActions.getPlateNumber("C:/Users/ADMIN/Pictures/1.jpg");
+            var CurrentDirectory = Directory.GetCurrentDirectory();
+            string savePath = CurrentDirectory.Substring(0, CurrentDirectory.Length - 18) + @"\Pictures\" + temp + ".jpg";
+            // string savePath = @"E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\Pictures\" + temp + ".jpg";
+            pictureBox2.Image.Save(savePath, ImageFormat.Jpeg);
+            string plateNumber = PlateActions.getPlateNumber(savePath);
             label3.Text = plateNumber;
-            string savePath = @"E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\Pictures\" + temp + ".jpg";
-            pictureBox2.Image.Save(@"E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\Pictures\" + temp + ".jpg", ImageFormat.Jpeg);
-
+            // label3.Text = savePath;
         }
 
         private void button4_Click(object sender, EventArgs e)

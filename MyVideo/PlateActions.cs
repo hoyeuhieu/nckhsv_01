@@ -44,7 +44,6 @@ namespace MyVideo
                 Console.ForegroundColor = ConsoleColor.Red;
                 return "Big";
             }
-            Console.ResetColor();
         }
     }
 }
