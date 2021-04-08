@@ -1,0 +1,44 @@
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\MyVideo.exe.config
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\MyVideo.exe
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\MyVideo.pdb
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.csprojResolveAssemblyReference.cache
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.Form1.resources
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.Properties.Resources.resources
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.csproj.GenerateResource.Cache
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.exe
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\obj\Debug\MyVideo.pdb
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.Video.DirectShow.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.Video.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.Video.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideo\MyVideo\bin\Debug\AForge.Video.DirectShow.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.exe.config
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.exe
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.pdb
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.exe
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.pdb
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.DirectShow.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.dll
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.DirectShow.xml
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csprojResolveAssemblyReference.cache
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.Form1.resources
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.Properties.Resources.resources
+D:\A_Luu_USB\AForeDemo\Video\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csproj.GenerateResource.Cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.exe.config
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.exe
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\MyVideo.pdb
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\bin\Debug\AForge.Video.DirectShow.xml
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csprojAssemblyReference.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.Form1.resources
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.Properties.Resources.resources
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csproj.GenerateResource.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csproj.CoreCompileInputs.cache
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.csproj.CopyComplete
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.exe
+E:\HUMG\Nghien cuu khoa hoc sinh vien\MyVideoAutoCaptureSnapshot\MyVideoAutoCaptureSnapshot\MyVideo\obj\Debug\MyVideo.pdb
